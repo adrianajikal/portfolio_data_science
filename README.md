@@ -4,10 +4,10 @@
   <img src="banner.png" >
 </p>
 
-  # Adriana Jikal
+# Adriana Jikal
 Sou formada na area de indústria da moda e comércio exterior pela faculdade Fashion Institute of Technology em New York, e tenho mais de 20 anos de experiência na área de vendas e confecção de roupas. Atuei principalmente nos setores de administração e financeiro da empresa, e durante essa jornada descobri a paixão por data science através dos desafios de lidar com grandes quantidades de informações e transformá-las em insights valiosos para a empresa. 
 
-Estou em transição de carreira para a área de Data Science pois acredito que essa área possa me proporcionar uma grande oportunidade de aplicar minhas habilidades analíticas, pensamento lógico e de resolução de problemas, e estou buscando adquirir novas habilidades e experiências e minha paixão pela área e minha inspiração em aprender me motivam a continuar minha jornada de aprendizado e buscar oportunidades para contribuir com projetos de análise de dados desafiadores e inovadores.
+Estou em transição de carreira para a área de Data Science pois acredito que essa área possa me proporcionar uma grande oportunidade de aplicar minhas habilidades analíticas, pensamento lógico e de resolução de problemas. Estou buscando adquirir novas habilidades e experiências para minha jornada de aprendizado e oportunidades para contribuir com projetos de análise de dados desafiadores e inovadores.
 
 
 **Links:**
@@ -17,5 +17,5 @@ Estou em transição de carreira para a área de Data Science pois acredito que 
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb**
+* **Analisando os Dados do Airbnb**: 
 * **Análise de Dados de Inadiplência** : https://bit.ly/3J8vkcT
