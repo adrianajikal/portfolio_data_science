@@ -17,5 +17,5 @@ Estou em transição de carreira para a área de Data Science pois acredito que 
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb**: 
+* **Analisando os Dados do Airbnb**: https://bit.ly/3NakiWt
 * **Análise de Dados de Inadimplência** : https://bit.ly/3J8vkcT
